@@ -372,5 +372,6 @@ CKEDITOR_5_CONFIGS = {
 }
 
 
+
 PAYPAL_RECEIVER_EMAIL = 'businessdestiny@gmail.com'
 PAYPAL_TEST = True
