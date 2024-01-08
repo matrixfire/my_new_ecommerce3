@@ -53,7 +53,7 @@ django-user-agents==0.4.0
 gunicorn==21.2.0
 channels==4.0.0
 daphne==4.0.0
-django-heroku==0.3.1
+# django-heroku==0.3.1
 crispy-bootstrap5==0.7
 pandas==2.1.1
 redis==5.0.1
